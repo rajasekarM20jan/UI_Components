@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="edit_texts">Edit Texts</string>
+    <string name="radio_buttons_page">Radio buttons &amp; Check Boxes</string>
+    <string name="switches_page">Switches &amp; Toggle Buttons</string>
+    <string name="spinners">Spinners &amp; Progress Bars</string>
+    <string name="radio_button">RadioButtons and Check Boxes</string>
+</resources>
